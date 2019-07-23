@@ -1,0 +1,9 @@
+It is project of text_editor.
+During the project I take help of following sites or people :-
+
+                        Name                                                          help
+	----------------------------------------------------------------------------------------------------------------------------
+		1. Abhijit sir                                     -For developing a list buffer required for stroring data
+
+		2. NCURSES-Programming-HOWTO.pdf                   -For learning ncurses
+	----------------------------------------------------------------------------------------------------------------------------
