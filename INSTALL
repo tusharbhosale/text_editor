@@ -1,0 +1,6 @@
+--------------------------------------------------------------------------
+This Project required a ncurses library
+To install it type following command in terminal
+---------------------------------------------------------------------------
+
+sudo apt-get install libncurses5-dev libncursesw5-dev
